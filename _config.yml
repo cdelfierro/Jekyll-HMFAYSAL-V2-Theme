@@ -1,3 +1,4 @@
+# About the site
 title: Interdicta
 tagline: Life without Pants!
 description: An awesome Jekyll theme by Engineer Hossain Mohd Faysal featuring a slide out drawer navigation for mobile browsers.
@@ -35,26 +36,25 @@ links:
     url: /
   - title: Convocatorias
     url: /about/
-  - title: Notas
-    url: /articles/
+  - title: Visiones
+    url: /visiones/
   - title: Manifiestos
     url: /theme-setup/
   - title: Encuentros
     url: /technical-details/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    UTC
-future:      true
-markdown:    kramdown
-
-# https://github.com/mojombo/jekyll/wiki/Permalinks
-permalink:   /:categories/:title
+timezone: UTC
+future: true
+markdown: kramdown
+permalink: /:categories/:title
 
 kramdown:
+  input: GFM
   auto_ids: true
   footnote_nr: 1
   entity_output: as_char
   toc_levels: 1..6
 
 include: [".htaccess"]
-exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules"]
+exclude: []
