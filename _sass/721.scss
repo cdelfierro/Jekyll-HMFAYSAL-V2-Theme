@@ -1,0 +1,29 @@
+#nav .block-title,
+#nav .close-btn,
+#top .nav-btn {
+    border: 0;
+    clip: rect(0 0 0 0);
+    height: 1px;
+    margin: -1px;
+    overflow: hidden;
+    padding: 0;
+    position: absolute;
+    width: 1px;
+}
+
+#nav {
+    ul {
+        text-align: center;
+        white-space: nowrap;
+    }
+    li {
+        display: inline-block;
+        border-right: 1px solid rgba(255,255,255,.1);
+        a {
+            padding: .42857em .85714em;
+        }
+    }
+    li:last-child {
+        border-right: 0;
+    }
+}

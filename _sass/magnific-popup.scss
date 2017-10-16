@@ -68,7 +68,7 @@
     bottom: 0;
     right: 0;
     z-index: -1;
-    box-shadow: 0 0 8px rgba(0, 0, 0, 0.6); 
+    box-shadow: 0 0 8px rgba(0, 0, 0, 0.6);
   }
 }
 
@@ -81,7 +81,7 @@
   cursor: -webkit-zoom-out;
   cursor: zoom-out; }
 
-.mfp-zoom, 
+.mfp-zoom,
 .image-popup {
   cursor: pointer;
   cursor: -webkit-zoom-in;
@@ -185,7 +185,7 @@ button::-moz-focus-inner {
   line-height: 18px; }
 
 .mfp-arrow {
-  .hide-text();
+  @include hide-text();
   position: absolute;
   top: 0;
   opacity: 0.65;
@@ -195,8 +195,8 @@ button::-moz-focus-inner {
   padding: 0;
   width: 90px;
   height: 110px;
-  background-color: @black;
-  .transition(opacity 0.2s ease-in-out);
+  background-color: $black;
+  @include transition(opacity 0.2s ease-in-out);
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0); }
 
 .mfp-arrow:active {
@@ -231,8 +231,8 @@ button::-moz-focus-inner {
   border-bottom-width: 20px; }
 
 .mfp-arrow-left {
-  left: 0; 
-  .border-radius(5px, 5px, 0, 0); }
+  left: 0;
+  @include border-radius(5px, 5px, 0, 0); }
   .mfp-arrow-left:after,
   .mfp-arrow-left .mfp-a {
     border-right: 12px solid #fff;
@@ -242,8 +242,8 @@ button::-moz-focus-inner {
     border-right: 20px solid #fff; }
 
 .mfp-arrow-right {
-  right: 0; 
-  .border-radius(0, 0, 5px, 5px); }
+  right: 0;
+  @include border-radius(0, 0, 5px, 5px); }
   .mfp-arrow-right:after,
   .mfp-arrow-right .mfp-a {
     border-left: 12px solid #fff;
@@ -333,7 +333,7 @@ img.mfp-img {
   max-width: 100%; }
 
 .mfp-gallery .mfp-image-holder .mfp-figure {
-  cursor: pointer; }  
+  cursor: pointer; }
 
 @media screen and (max-width: 800px) and (orientation: landscape), screen and (max-height: 300px) {
   /**
@@ -423,26 +423,26 @@ img.mfp-img {
 /* start state */
 .mfp-fade .zoom-anim-dialog {
   opacity: 0;
-  .transition(all 0.2s ease-in-out); 
-  .scale(0.8);
+  @include transition(all 0.2s ease-in-out);
+  @include scale(0.8);
 }
 
 /* animate in */
 .mfp-fade.mfp-ready .zoom-anim-dialog {
   opacity: 1;
-  .scale(1);
+  @include scale(1);
 }
 
 /* animate out */
 .mfp-fade.mfp-removing .zoom-anim-dialog {
- .scale(0.8); 
+ @include scale(0.8);
   opacity: 0;
 }
 
 /* Dark overlay, start state */
 .mfp-fade.mfp-bg {
   opacity: 0;
-  .transition(opacity 0.3s ease-out); 
+  @include transition(opacity 0.3s ease-out);
 }
 /* animate in */
 .mfp-fade.mfp-ready.mfp-bg {

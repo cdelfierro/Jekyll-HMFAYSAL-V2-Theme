@@ -1,0 +1,31 @@
+// Typography ==================================================================
+$doc-font-size: 16;
+$doc-line-height: 26;
+$basefont: "IM Fell Double Pica", serif;
+$headingfont: "IM Fell Double Pica SC", serif;
+$codefont: Monaco, "Courier New", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", monospace;
+$altfont: $basefont;
+$indent-var: 0rem + ($doc-line-height / $doc-font-size);
+
+// Color =======================================================================
+$bodycolor: #fff;
+$textcolor: #333332;
+$bordercolor: #343434;
+$basecolor: #343434;
+$compcolor: adjust-hue($basecolor, 180);
+$white: #fff;
+$black: #111;
+$accentcolor: $black;
+
+// Links =======================================================================
+$linkcolor: #343434;
+$linkcolorhover: darken($linkcolor, 10);
+$linkcolorvisited: lighten($linkcolorhover, 20);
+$linkcolorfocus: darken($linkcolorvisited, 10);
+
+// Grid ========================================================================
+// Defining number of columns in the grid.
+// Common Values would be 12, 16 or 24
+$width: 100%;
+$def-grid: 12;
+$margin: 0;

@@ -1,0 +1,15 @@
+// Layout ======================================================================
+.article-author-bottom,
+.article-author-side {
+    .author-social,
+    .bio-photo,
+    h3,
+    p {
+        max-width: 150px;
+    }
+    img.bio-photo {
+        width: 150px;
+        height: 150px;
+        @include rounded(150px);
+    }
+}

@@ -1,0 +1,30 @@
+// Layout ======================================================================
+.image-wrap {
+    &:after {
+        left: 33.333333333%;
+    }
+    .headline-wrap {
+        @include prefix(12,1);
+    }
+}
+
+.image-credit {
+    @include grid(12,8.5);
+}
+
+#index,
+#main article {
+    @include grid(12,4.5);
+}
+
+.footer-wrap footer,
+.related-articles {
+    @include grid(12,4.5);
+    @include prefix(12,4);
+    @include suffix(12,3.5);
+}
+
+.article-author-side {
+    @include grid(12,1.5);
+    @include prefix(12,2);
+}
