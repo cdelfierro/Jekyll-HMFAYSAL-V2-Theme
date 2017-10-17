@@ -21,4 +21,4 @@ Mientras más nos obsesionemos con la sociedad multimediática, más se desarrol
 
 * Residencia Santa Cruz, Bolivia, Nacido en La Paz, Bolivia.  18/11/74
 * Curador Nube Gallery, Santa Cruz de la Sierra- Bolivia.
-* http://bloque0.blogspot.ca/
+* <https://bloque0.blogspot.ca/>

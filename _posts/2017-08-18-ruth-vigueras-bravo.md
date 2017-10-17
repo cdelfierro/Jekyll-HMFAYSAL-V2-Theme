@@ -21,4 +21,4 @@ Cómo un arte mutante, que se interconecta con otras disciplinas y se expande co
 
 ---
 * Nacionalidad mexicana, lugar de residencia Ciudad de México
-* 8 de abril de 1981.  Artista independiente 
+* 8 de abril de 1981.  Artista independiente
