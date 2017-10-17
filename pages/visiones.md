@@ -1,6 +1,6 @@
 ---
-layout: post-index
+layout: visiones
 permalink: /visiones/
 title: Visiones
-tagline: A List of Posts
+tagline: testetstest
 ---
