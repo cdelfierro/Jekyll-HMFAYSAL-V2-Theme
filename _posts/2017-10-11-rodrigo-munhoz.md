@@ -4,7 +4,7 @@ title: 9. - Rodrigo Munhoz
 description: Visión de Rodrigo Munhoz sobre la actualidad y el devenir de la performance.
 category: visiones
 image:
-  feature:
+  feature: rodrigo-munhoz.jpg
   credit: Lucas Czepaniki
   creditlink:
 ---

@@ -4,7 +4,7 @@ title: 8. - Christine Brault
 description: Visión de Christine Brault sobre la actualidad y el devenir de la performance.
 category: visiones
 image:
-  feature:
+  feature: christine-brault.jpg
   credit:
   creditlink:
 ---

@@ -4,7 +4,7 @@ title: 6. - Joaquín Alonso
 description: Visión de Joaquín Alonso sobre la actualidad y el devenir de la performance.
 category: visiones
 image:
-  feature:
+  feature: joaquin-alonso.jpg
   credit:
   creditlink:
 ---

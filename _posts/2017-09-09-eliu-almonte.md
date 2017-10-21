@@ -4,7 +4,7 @@ title: 4. - Eliu Almonte
 description: Visión de Eliu Almonte sobre la actualidad y el devenir de la performance.
 category: visiones
 image:
-  feature:
+  feature: eliu-almonte.jpg
   credit:
   creditlink:
 ---

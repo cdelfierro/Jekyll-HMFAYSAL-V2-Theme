@@ -4,7 +4,7 @@ title: 2. - Ruth Vigueras Bravo
 description: Visión de Ruth Vigueras sobre la actualidad y el devenir de la performance.
 category: visiones
 image:
-  feature:
+  feature: ruth-vigueras-bravo.jpg
   credit:
   creditlink:
 ---

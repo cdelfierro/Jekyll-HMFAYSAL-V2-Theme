@@ -4,7 +4,7 @@ title: 3. - Carlos Oyarzún
 description: Visión de Carlos Oyarzún sobre la actualidad y el devenir de la performance.
 category: visiones
 image:
-  feature:
+  feature: carlos-oyarzun.jpg
   credit:
   creditlink:
 ---

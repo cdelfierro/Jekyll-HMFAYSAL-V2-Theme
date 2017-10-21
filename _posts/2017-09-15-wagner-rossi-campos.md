@@ -4,7 +4,7 @@ title: 5. - Wagner Rossi Campos
 description: Visión de Wagner Rossi sobre la actualidad y el devenir de la performance.
 category: visiones
 image:
-  feature:
+  feature: wagner-rossi-campos.jpg
   credit:
   creditlink:
 ---

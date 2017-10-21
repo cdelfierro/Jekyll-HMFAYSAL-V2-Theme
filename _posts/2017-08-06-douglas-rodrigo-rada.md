@@ -4,7 +4,7 @@ title: 1. - Douglas Rodrigo Rada
 description: Visión de Douglas Rada sobre la actualidad y el devenir de la performance.
 category: visiones
 image:
-  feature:
+  feature: douglas-rodrigo-rada.jpg
   credit: Eduardo Schwartzberg
   creditlink:
 ---

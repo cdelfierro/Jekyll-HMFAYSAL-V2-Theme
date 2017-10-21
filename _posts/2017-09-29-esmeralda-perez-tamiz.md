@@ -4,7 +4,7 @@ title: 7. - Esmeralda Pérez Tamiz
 description: Visión de Esmeralda Pérez Tamiz sobre la actualidad y el devenir de la performance.
 category: visiones
 image:
-  feature:
+  feature: esmeralda-perez-tamiz.jpg
   credit:
   creditlink:
 ---
