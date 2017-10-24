@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+{% include _helper/page-class.html %}
+<html class="no-js" lang="{{site.language}}">
+<head>
+{% include _head.html %}
+</head>
+
+<body class="{{ page_class }}" itemscope itemtype="http://schema.org/WebPage">
+  {% include _navigation.html %}
+  {% include _image-feature.html %}
+
+  <!-- @TODO: transformar en aside -->
+  <div class="article-author-side">
+    {% include _author-bio.html %}
+  </div>
+
+  {{ content }}
+
+  <!-- @TODO: optimizar esto -->
+  <div class="footer-wrap">
+    <footer>
+      {% include _footer.html %}
+    </footer>
+  </div>
+
+  {% include _scripts.html %}
+</body>
+</html>
