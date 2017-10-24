@@ -5,6 +5,7 @@ description: An awesome Jekyll theme by Engineer Hossain Mohd Faysal featuring a
 # Your site's domain goes here. Leave localhost server or blank when working locally.
 url:
 baseurl: /interdicta
+language: es
 
 # Owner/author information
 owner:
