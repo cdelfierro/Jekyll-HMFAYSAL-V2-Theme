@@ -2,11 +2,22 @@
 layout: layout
 ---
 <div id="index" itemprop="mainContentOfPage" itemscope itemtype="http://schema.org/Blog">
-  <h3><a href="{{ site.url}}/articles/">Articles</a></h3>
-  {% for post in site.posts limit:5 %}
-  <article itemscope itemtype="http://schema.org/BlogPosting" itemprop="blogPost">
-    <h2 itemprop="headline"><a href="{{ post.url | relative_url }}" rel="bookmark" title="{{ post.title }}">{{ post.title }}</a></h2>
-    <p itemprop="text">{% if post.description %}{{ post.description }}{% else %}{{ post.content | strip_html | strip_newlines | truncate: 120 }}{% endif %}</p>
-  </article>
+  {% assign sticky_posts = site.posts | where:"sticky","true" %}
+  {% if sticky_posts.size > 0 %}
+    <h3>Destacado</h3>
+    {% for post in sticky_posts %}
+      <article itemscope itemtype="http://schema.org/BlogPosting" itemprop="blogPost">
+        <h2 itemprop="headline"><a href="{{ post.url | relative_url }}" rel="bookmark" title="{{ post.title }}">{{ post.title }}</a></h2>
+        <p itemprop="text">{% if post.description %}{{ post.description }}{% else %}{{ post.content | strip_html | strip_newlines | truncate: 120 }}{% endif %}</p>
+      </article>
+    {% endfor %}
+  {% endif %}
+  <h3>Archivo</h3>
+  {% assign normal_posts = site.posts | where_exp:"item","item.sticky != true" %}
+  {% for post in normal_posts limit:10 %}
+    <article itemscope itemtype="http://schema.org/BlogPosting" itemprop="blogPost">
+      <h2 itemprop="headline"><a href="{{ post.url | relative_url }}" rel="bookmark" title="{{ post.title }}">{{ post.title }}</a></h2>
+      <p itemprop="text">{% if post.description %}{{ post.description }}{% else %}{{ post.content | strip_html | strip_newlines | truncate: 120 }}{% endif %}</p>
+    </article>
   {% endfor %}
 </div>
