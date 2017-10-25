@@ -12,7 +12,7 @@
 {% endif %}
 
 <!-- description -->
-{% assign description = page.description | default: page.excerpt | default: site.description %}
+{% assign description = page.description | default: site.description %}
 {% if description %}
   <meta name="description" content="{{ description }}">
 {% endif %}
