@@ -4,6 +4,10 @@ title: "1ª Convocatoria manifiestos de performance:"
 description: "1ª Convocatoria manifiestos de performance"
 category: convocatorias
 permalink: /:categories/1a-convocatoria-manifiestos
+image:
+  feature: 1a-convocatoria-manifiestos.jpg
+  credit: Jazmín Ra
+  creditlink:
 ---
 
 ## Nuevos comandos y tonalidades ##
