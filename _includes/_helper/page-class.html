@@ -1,4 +1,6 @@
 {% case page.layout %}
 {% when "home" %}
   {% capture page_class %}home{% endcapture %}
+{% when "post" %}
+  {% capture page_class %}article{% endcapture %}
 {% endcase %}
