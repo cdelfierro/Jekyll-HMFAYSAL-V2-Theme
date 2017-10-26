@@ -21,6 +21,10 @@
         @include last;
     }
 
+    #main {
+        display: inline;
+    }
+
     .footer-wrap footer {
         @include grid(12,6);
         @include prefix(12,3);
