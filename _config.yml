@@ -1,7 +1,7 @@
 # About the site
 title: Interdicta
 tagline: Life without Pants!
-description: An awesome Jekyll theme by Engineer Hossain Mohd Faysal featuring a slide out drawer navigation for mobile browsers.
+description: Interdicta es una plataforma-red informativa sobre performance, performatividad e identidades críticas.
 # Your site's domain goes here. Leave localhost server or blank when working locally.
 url:
 baseurl:
@@ -11,7 +11,7 @@ language: es
 owner:
   name: Interdicta plataforma de performance
   avatar: logo.png
-  bio: ""
+  bio: "Interdicta es una plataforma-red informativa sobre performance, performatividad e identidades críticas, que respaldada por diversas colaboraciones busca promover alianzas e intercambios entre quienes están produciendo y reflexionando desde la(s) escena(s) local(es), zonas cuyo capital simbólico y socio-político viene atravesado por tensiones y disputas, que han levantado la urgencia de construir distintos acuerdos estratégicos/fácticos que apunten a la visualización de los procesos y espacios generados por la práctica de performance en Chile; la difusión de encuentros, talleres y modalidades de formación como charlas y textos que apunten a un proceso de documentación, crítica, y el establecimiento de enlaces entre interdictos, desobedientes, abyectos y curiosos."
   email: interdictaperformance@gmail.com
   twitter:
   facebook: interdictaplataformaperformancechile
