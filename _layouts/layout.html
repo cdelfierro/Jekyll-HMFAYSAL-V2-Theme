@@ -21,7 +21,7 @@
     {% if page_class == "article" %}
     {% if site.related_posts.size > 0 %}
       <div class="related-articles">
-        <h4>También te puede interesar <small class="pull-right">(<a href="{{ site.url }}/articles">Ver todos los artículos</a>)</small></h4>
+        <h4>También te puede interesar <small class="pull-right"><a href="{{ site.url }}/{{ page.category }}"><i class="fa fa-arrow-up" aria-hidden="true"></i> Volver a {{ page.category }}</a></small></h4>
         <ul>
           {% for post in site.related_posts limit:3 %}
             {% assign match = false %}
