@@ -5,7 +5,7 @@
   {% capture page_class %}page{% endcapture %}
 {% when "post" %}
   {% capture page_class %}article{% endcapture %}
-{% when "post-index" or "post-category" %}
+{% when "post-index" or "post-category-index" %}
   {% capture page_class %}articles{% endcapture %}
 {% else %}
   {% capture page_class %}page{% endcapture %}

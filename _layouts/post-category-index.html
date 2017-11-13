@@ -4,9 +4,10 @@ layout: layout
 
 <div id="index" itemprop="mainContentOfPage" itemscope itemtype="http://schema.org/Blog">
   <h1 itemprop="name">{{ page.title }}</h1>
-  <p>Miradas desde la praxis sobre la actualidad y el devenir de la performance.</p>
+  <p>{{ page.description }}</p>
+  {% assign test_category = page.title | downcase %}
   {% for post in site.posts %}
-    {% if post.category == "visiones" %}
+    {% if post.category == test_category %}
       <article itemscope itemtype="http://schema.org/BlogPosting" itemprop="blogPost">
         <h2 itemprop="headline"><a href="{{ post.url | relative_url }}" rel="bookmark" title="{{ post.title }}">{{ post.title }}</a></h2>
       </article>
