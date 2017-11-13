@@ -1,6 +1,12 @@
 {% case page.layout %}
 {% when "home" %}
   {% capture page_class %}home{% endcapture %}
+{% when "page" %}
+  {% capture page_class %}page{% endcapture %}
 {% when "post" %}
   {% capture page_class %}article{% endcapture %}
+{% when "post-index" or "post-category" %}
+  {% capture page_class %}articles{% endcapture %}
+{% else %}
+  {% capture page_class %}page{% endcapture %}
 {% endcase %}
