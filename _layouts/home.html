@@ -7,7 +7,12 @@ layout: layout
     <h3>Destacado</h3>
     {% for post in sticky_posts %}
       <article itemscope itemtype="http://schema.org/BlogPosting" itemprop="blogPost">
-        <h2 itemprop="headline"><a href="{{ post.url | relative_url }}" rel="bookmark" title="{{ post.title }}">{{ post.title }}</a></h2>
+        <h2 itemprop="headline">
+          <a href="{{ post.url | relative_url }}" rel="bookmark" title="{{ post.title }}">
+            {{ post.title }}
+            {% if post.modified %}(Actualizada el {{ post.modified | date: "%d.%m.%Y" }}){% endif %}
+          </a>
+        </h2>
         <p itemprop="text">{% if post.description %}{{ post.description }}{% else %}{{ post.content | strip_html | strip_newlines | truncate: 120 }}{% endif %}</p>
       </article>
     {% endfor %}

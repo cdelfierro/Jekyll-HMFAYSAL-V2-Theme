@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "1ª Convocatoria manifiestos de performance:"
-description: "1ª Convocatoria manifiestos de performance"
+title: "1ª Convocatoria manifiestos de performance"
+tagline: Nuevos comandos y tonalidades.
+description: "Detalles sobre la convocatoria de manifiestos de performance."
 category: convocatorias
 permalink: /:categories/1a-convocatoria-manifiestos
 sticky: true
+modified: 2017-11-01
 image:
   feature: 1a-convocatoria-manifiestos.jpg
   credit: Jazmín Ra
   creditlink:
 ---
-
-## Nuevos comandos y tonalidades ##
 
 ### 1.- Tonalidades ###
 
@@ -44,14 +44,14 @@ Lo político de la palabra, está en la apertura del sentido.
 
 ## Bases ##
 
-Interdicta, plataforma sobre performance: 1° convocatoria de manifiestos de performance, nuevos comandos y tonalidades 2017- 2018
+Interdicta, plataforma sobre performance: 1 convocatoria de manifiestos de performance, nuevos comandos y tonalidades 2017-2018
 
 Se recibirán manifiestos de performance  del 1° de Septiembre - al  31° de Octubre 2017  bajo la convocatoria: “manifiestos de performance, nuevos comandos y tonalidades” al correo <interdictaperformance@gmail.com>
 
 Adjunto al manifiesto debe acompañar una imagen registro de performance que condense el manifiesto, la imagen debe presentarse en encuadre horizontal, relación de aspecto 16:9 en formato jpg. resolución 300 dpi
 
 La extensión del manifiesto debe tener como mínimo 2 carillas y no debe exceder el  máximo de 7 carillas.
-Se realizarán 12 publicaciones al año, una cada mes durante el periodo de Noviembre del 2017 a Noviembre de 2018 en <https://interdictaperformance.blogspot.cl/>
+Se realizarán 12 publicaciones al año, una cada mes durante el periodo de Noviembre de 2017 a Noviembre de 2018 en este sitio.
 
 Los manifiestos serán publicados con la licencia creative commons CC BY-NC-SA 4.0
 
@@ -60,3 +60,7 @@ Al final del ciclo 2017- 2018, se publicará un compilado en pdf de libre difusi
 El carácter de la convocatoria no persigue fines de lucro, así mismo no se encuentra en la facultad de entregar remuneraciones, o promover la competencia entre pares.
 
  El fin de la convocatoria busca promover la manifestación contingente de los múltiples sentidos que atraviesan a la práctica de performance, mediante la apertura de la palabra de aquellos quienes la enuncian, la activan, la encarnan.
+
+### Extensión del plazo ###
+
+Se ha extendido el plazo para recibir manifiestos desde el 1° al 30 de noviembre de 2017 bajo las mismas bases.
