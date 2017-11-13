@@ -35,11 +35,11 @@ links:
   - title: Inicio
     url: /
   - title: Interdicta
-    url: /
+    url: /interdicta
   - title: Convocatoria
     url: /convocatorias/1a-convocatoria-manifiestos
   - title: Visiones
-    url: /visiones/
+    url: /visiones
   # - title: Manifiestos
   #   url: /theme-setup/
   # - title: Encuentros
