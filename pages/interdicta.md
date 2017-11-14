@@ -22,9 +22,8 @@ Nos interesa desarmar la lógica de archivos privados, utilizando las políticas
 ---
 
 ## Aliados
-
 <ul>
 {% for aliado in site.aliados %}
-  <li><a href="{{ aliado.url }}">{{ aliado.title }}</a></li>
+  <li><h4><a href="{{ aliado.url | relative_url }}" title="{{ aliado.title }}">{{ aliado.title }}</a></h4></li>
 {% endfor %}
 </ul>
