@@ -48,8 +48,8 @@ links:
   #   url: /technical-details/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone: UTC
-future: true
+timezone: America/Santiago
+future: false
 markdown: kramdown
 permalink: /:categories/:title
 
