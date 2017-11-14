@@ -60,3 +60,8 @@ kramdown:
 
 include: [".htaccess"]
 exclude: []
+
+collections:
+  aliados:
+    output: true
+    permalink: /:collection/:name/
