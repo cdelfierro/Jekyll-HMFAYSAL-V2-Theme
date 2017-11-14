@@ -7,6 +7,8 @@ image:
   creditlink:
 ---
 
+>¿Acaso no existirá jamás una reconciliación del performista sudamericano con su materialidad? Y en consecuencia con sus propias maneras de armar un terreno de existencia? ¿Archivo de las Américas? Obturando de una buena vez el acceso al Gran adentro y al Gran afuera Obturando de una buena vez el acceso al Gran adentro y al Gran afuera Obturando de una buena vez el acceso al Gran adentro y al Gran afuera
+
 Licenciado en Artes de la Universidad de Chile (Santiago). Ha realizado performance y ha exhibido sus trabajos en diferentes zonas de Sudamérica, Norteamérica y el Caribe. Es organizador y gestor del encuentro de performance y nuevos paradigmas Escena fractal, de AUT “Activación Autónoma Temporal" y de la plataforma de investigación "Interdicta".
 
 Artista de formación, sin embargo me he inclinado a subvertir este marco de referencia identitaria, creando las condiciones para explorar otras "figuras" a través de la práctica del performance y sus diferentes amplificaciones: chamanismo y eroticidad, desdoblamientos libertarios, deconstrucciones de los rendimiento simbólicos, extrañamientos de las economía somáticas, entre otras inquietudes; mi comando de trabajo se elabora principalmente en vínculo con tecnologías marginales y maquetas efímeras, cúmulos de narraciones polisémicas, geografías "utópicas" que velan por la ecología de saberes que entrega la practica de performance como punto de "referencia cero" para el levantamiento de “lo posible”y su politicidad.
