@@ -2,8 +2,8 @@
 layout: page
 title: Alejandra Álvarez
 image:
-  feature:
-  credit:
+  feature: alejandra-alvarez.jpg
+  credit: Francisco Hurtado
   creditlink:
 ---
 
