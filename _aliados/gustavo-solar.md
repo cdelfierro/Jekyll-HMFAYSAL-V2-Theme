@@ -7,7 +7,7 @@ image:
   creditlink:
 ---
 
->¿Acaso no existirá jamás una reconciliación del performista sudamericano con su materialidad? Y en consecuencia con sus propias maneras de armar un terreno de existencia? ¿Archivo de las Américas? Obturando de una buena vez el acceso al Gran adentro y al Gran afuera Obturando de una buena vez el acceso al Gran adentro y al Gran afuera Obturando de una buena vez el acceso al Gran adentro y al Gran afuera
+>"¿Acaso no existirá jamás una reconciliación del performista sudamericano con su materialidad? Y en consecuencia con sus propias maneras de armar un terreno de existencia? ¿Archivo de las Américas? Obturando de una buena vez el acceso al Gran adentro y al Gran afuera Obturando de una buena vez el acceso al Gran adentro y al Gran afuera Obturando de una buena vez el acceso al Gran adentro y al Gran afuera". Gustavo Solar
 
 Licenciado en Artes de la Universidad de Chile (Santiago). Ha realizado performance y ha exhibido sus trabajos en diferentes zonas de Sudamérica, Norteamérica y el Caribe. Es organizador y gestor del encuentro de performance y nuevos paradigmas Escena fractal, de AUT “Activación Autónoma Temporal" y de la plataforma de investigación "Interdicta".
 
