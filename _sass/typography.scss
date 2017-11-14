@@ -86,12 +86,10 @@ figcaption {
 
 // Blockquotes =================================================================
 blockquote {
-    margin-left: -28px;
     padding-left: 20px;
-    border-left: 8px solid $bordercolor;
+    border-left: 2px solid $bordercolor;
     font-family: $altfont;
     font-style: italic;
-    @include font-rem(24);
 }
 
 // Footnotes ===================================================================
