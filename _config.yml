@@ -36,10 +36,12 @@ links:
     url: /
   - title: Interdicta
     url: /interdicta
-  - title: Convocatoria
-    url: /convocatorias/1a-convocatoria-manifiestos
+  - title: Posicionamiento
+    url: /posicionamiento
   - title: Visiones
     url: /visiones
+  - title: Convocatoria
+    url: /convocatorias/1a-convocatoria-manifiestos
   # - title: Manifiestos
   #   url: /theme-setup/
   # - title: Encuentros
