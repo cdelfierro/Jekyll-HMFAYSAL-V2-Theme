@@ -84,6 +84,26 @@ figcaption {
     @include rounded(3px);
 }
 
+// Robot text ==================================================================
+.robot {
+    font-family: $codefont;
+}
+
+.blink {
+    animation: blink-animation 1s steps(5, start) infinite;
+    -webkit-animation: blink-animation 1s steps(5, start) infinite;
+}
+@keyframes blink-animation {
+    to {
+        visibility: hidden;
+    }
+}
+@-webkit-keyframes blink-animation {
+    to {
+        visibility: hidden;
+    }
+}
+
 // Blockquotes =================================================================
 blockquote {
     padding-left: 20px;
@@ -104,11 +124,6 @@ blockquote {
 p {
     margin: 0 0 $indent-var;
     text-align: justify;
-    // & + p {
-    //     //siblings indentation
-    //     text-indent: $indent-var;
-    //     margin-top: -($indent-var);
-    // }
 }
 
 // Code ========================================================================
