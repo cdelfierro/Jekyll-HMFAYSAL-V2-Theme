@@ -5,7 +5,7 @@ description: Visión de Joaquín Alonso sobre la actualidad y el devenir de la p
 category: visiones
 image:
   feature: joaquin-alonso.jpg
-  credit:
+  credit: Desconocido
   creditlink:
 ---
 
