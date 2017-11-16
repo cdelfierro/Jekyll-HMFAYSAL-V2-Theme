@@ -12,7 +12,7 @@ image:
 Carlos es un programador.<br/>
 A Carlos le gusta la biotecnología.<br/>
 También la performance.<br/>
-Open{:.blink} Source.<br/>
+Open Source.<br/>
 A veces performea.<br/>
 Trabaja en [corporación laberinto](https://cdelfierro.github.io/).<br/>
 Codifica.<br/>
@@ -26,7 +26,7 @@ Algo así:<br />
 [[int(__) for __ in A.split()] for A in data[1:]]
 {% endhighlight %}
 
-$ <span class="blink"_</span>
+$ <span class="blink">_</span>
 {:.robot}
 
 ## (✿◕‿◕)⊃━✿✿✿✿✿✿##
