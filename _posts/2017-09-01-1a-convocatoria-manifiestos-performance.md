@@ -6,12 +6,40 @@ description: "Detalles sobre la convocatoria de manifiestos de performance."
 category: convocatorias
 permalink: /:categories/1a-convocatoria-manifiestos
 sticky: true
-modified: 2017-11-01
+modified: 2017-12-02
 image:
   feature: 1a-convocatoria-manifiestos.jpg
   credit: Jazmín Ra
   creditlink:
 ---
+
+> “Como hidra en código abierto, múltiples brazo-cabezas. Trabajo y comunidad se establecen como una red neuronal que se extiende fractalizada hacia el futuro,  donde no se necesita cuerpo ni presencia para la reunión, para el impacto, para la revuelta; para la conexión afectiva, estratégica, remecedora. Las pasiones de lo común serán una modalidad que abraza contradicciones y tensiones pero que pueden coexistir con ello.”
+
+Estamos muy agradecidos por sus trabajos y por sentar este precedente. 
+A continuación hacemos visible el listado de Manifiestos recibidos durante la convocatoria, Nuevos comandos y Tonalidades. 
+
+1. Fernando Hermógenes, Manifiesto “Trataytârsx Hermogeniano de Vida”
+2. Enderodriguez, Manifiesto “PERFORNADIE - PERFORTODO”
+3. Rodrigo Muhnoz, Manifiesto “Perfo_maní_fiesta”
+4. Escuela de Arte Feminista, Manifiesto “Las Artistas que vivimos no existimos”
+5. Anderson Feliciano, “Manifesto pela Fragilidade Negra”
+6. Rodrigo González, Manifiesto “10 tesis de la performance”
+7. Lorna Remmele, “Manifiesto AUT / Encuentro por la liberación temporal de zonas”
+8. Eli Neira, Manifiesto “Chúpame la Periferia” y “Hacia una po-etica de la acción”
+9. Nicolás Sandoval, “Manifiesto Albino” 
+10. Daniela Lillo, Manifiesto “Bolera punx3 (Manifiestx ¿?)”
+11. Proyecto Ágora Viva, Manifiesto “Guerras y Para-economías” 
+12. Valeria Vargas Nocetti, Manifiesto “Tectónica”
+13. Colectivo Caolín: Celeste Fresedo, Facundo de la Fuente, Justo Aréchaga; Manifiesto de performance
+14. Calixto Saucedo, Manifiesto “Gestos interrumpidos” 
+15. Alejo Campos, Manifiesto “Esto no es una performance: Arquitectura del placer de saber que no hay más allá de la imagen” 
+16. Mila Berríos, Manifiesto de performance
+17. Carlos Salguero, Manifiesto de performance.
+18. Lola Perla, Manifiesto de performance.
+19. Edison Cáceres y Gabriel Arroyo, Manifiesto “Sinferencia III” 
+20. Carlos Oyarzún, “Manifiestre\ vincular-vincular/se”
+
+Necesitamos seguir. Nuestro trabajo es seguir. Pegarle a la cerradura y dejar abierto para que otro ingrese. Cuidar. Cuidar el acceso, que el acceso no cierre.
 
 ### 1.- Tonalidades ###
 
