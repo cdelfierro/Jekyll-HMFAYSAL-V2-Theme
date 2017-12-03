@@ -1,29 +1,31 @@
 ---
 layout: post
-title: 16.- Angelo Alvarez
+title: 16.- Angelo Alvarez Bon
 description: Visión de Angelo Alvarez sobre la actualidad y el devenir de la performance.
 category: visiones
 image:
-  feature: angelo-alvarez.jpg
+  feature: angelo-alvarez-bon.jpg
   credit: Desconocido
   creditlink:
 ---
 
 ## ¿Qué es performance hoy?
 
-Es el tomar de la vida misma hecha magma las acciones que el cuerpo extiende con la única finalidad de desandar lo condicionado lo renglado , lo autorizado.
+Es el tomar de la vida misma hecha magma.
 
-Es el ritual q uno propone porque se sabe parte de un todo no está sólo son muchas las partes q se confluyen en tonalidades disidentes q encauzan la esencia del fluir siendo lo corpus el anclaje que lo guía.
+Las acciones que el cuerpo extiende con la finalidad de desandar lo condicionado, lo reglado, lo autorizado.Es el ritual que uno propone porque se sabe parte de un todo.
 
-Mágicamente se re/aprende lo q siempre se debió , los sentidos cobran vida propia porque se saben q se integran a lo total, esto es lo q posibilita que un otro conecté desde las esencias allí mismo es donde el acto performatico se vuelve letal para las dinámicas que dominan.
+No se está solo, son muchas las partes que confluyen en tonalidades disidentes que encauzan la esencia del fluir siendo el corpus el anclaje que lo guía.
+
+Mágicamente se re/aprende lo q siempre se debió , los sentidos cobran vida propia porque se integran a lo total, esto es lo que posibilita que un otro conecte desde las esencias, es allí mismo donde el acto performático se vuelve letal para las dinámicas que dominan.
 
 ## ¿Cómo ves el futuro de la práctica?
 
-Para mi la performance  ya es futuro, se prolonga, es extensión…
+Para mi la performance  ya es futuro, se prolonga, es extensión.
 
-Tomará , se apropiará de espacios en donde se manifiesten posturas que se habrán al debate crítico reflexivo de las dinámicas sociales .
+Tomará , se apropiará de espacios en donde se manifiesten posturas que se habrán al debate crítico reflexivo de las dinámicas sociales . La veo más activa que nunca.
 
-La veo más activa que nunca.
+Desde La Plata, ciudad Argentina, se están produciendo instancias que llaman a la reflexión. Justamente en un seminario internacional sobre performance realizado entre la UNTREF y la UNLP (universidades argentinas) y universidades de otros países, se puso antención a la re conceptualización de la performance en la actualidad y se habló de cuerpo virtual como performance. Así que nuevamente viene a mí la reflexión critica sobre qué es lo real ante un ente que nos representa, en este caso; el “virtual” y su “tangible” corpóreo material. Es en este sentido que la performance ya es parte de un futuro queramos o no .
 
 ---
 
