@@ -11,7 +11,7 @@ image:
 
 ## ¿Qué es performance hoy?
 
-¿El performance de hoy? No es lo mismo hacerse esta pregunta en un país o en otro, en ciudad o en provincia, en una galería o en una calle, a la luz del sol o a la luz de la luna. El performance se nutre de propia práctica y acercamiento (proximidad, estudio, análisis, etc) a otros modos de otros performers que realizan y transforman su quehacer (e investigación del mismo).
+¿El performance de hoy? No es lo mismo hacerse esta pregunta en un país o en otro, en ciudad o en provincia, en una galería o en una calle, a la luz del sol o a la luz de la luna. El performance se nutre de la propia práctica y acercamiento (proximidad, estudio, análisis, etc) a otros modos de otros performers que realizan y transforman su quehacer (e investigación del mismo).
 
 No hay un hoy definitivo, pues el cuerpo, los pensamientos y los contextos glocales están en movimiento, como la misma práctica del performance.
 
