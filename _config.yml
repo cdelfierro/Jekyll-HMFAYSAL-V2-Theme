@@ -51,7 +51,7 @@ links:
 timezone: America/Santiago
 future: false
 markdown: kramdown
-permalink: /:categories/:title
+permalink: /:categories/:title/
 
 kramdown:
   input: GFM
