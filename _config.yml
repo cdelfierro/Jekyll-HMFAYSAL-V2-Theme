@@ -44,8 +44,8 @@ links:
     url: /convocatorias/1a-convocatoria-manifiestos
   # - title: Manifiestos
   #   url: /theme-setup/
-  # - title: Encuentros
-  #   url: /technical-details/
+  - title: Encuentros
+    url: /encuentros
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: America/Santiago
