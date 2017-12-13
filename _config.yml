@@ -35,17 +35,17 @@ links:
   - title: Inicio
     url: /
   - title: Interdicta
-    url: /interdicta
+    url: /interdicta/
   - title: Posicionamiento
-    url: /posicionamiento
+    url: /posicionamiento/
   - title: Visiones
-    url: /visiones
+    url: /visiones/
   - title: Convocatoria
     url: /convocatorias/1a-convocatoria-manifiestos
   - title: Encuentros
-    url: /encuentros
+    url: /encuentros/
   - title: Manifiestos
-    url: /manifiestos
+    url: /manifiestos/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: America/Santiago
