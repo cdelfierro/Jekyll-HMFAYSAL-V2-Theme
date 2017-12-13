@@ -42,10 +42,10 @@ links:
     url: /visiones
   - title: Convocatoria
     url: /convocatorias/1a-convocatoria-manifiestos
-  # - title: Manifiestos
-  #   url: /theme-setup/
   - title: Encuentros
     url: /encuentros
+  - title: Manifiestos
+    url: /manifiestos
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: America/Santiago
