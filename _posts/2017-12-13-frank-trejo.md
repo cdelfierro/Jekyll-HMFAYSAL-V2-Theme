@@ -3,6 +3,7 @@ layout: post
 title: 18.- Frank Trejo
 description: Visión de Frank Trejo sobre la actualidad y el devenir de la performance.
 category: visiones
+date: 2017-12-13 00:00 -0300
 image:
   feature: frank-trejo.jpg
   credit: Desconocido
