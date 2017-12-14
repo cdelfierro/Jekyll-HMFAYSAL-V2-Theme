@@ -6,6 +6,7 @@ layout: layout
     <div class="headline-wrap">
       <h1 itemprop="name">{{ page.title }}</h1>
       {% if page.tagline %}<h2>{{ page.tagline }}</h2>{% endif %}
+      {% if page.author %}<h4>por <strong>{{ page.author }}</strong></h4>{% endif %}
     </div><!--/ .headline-wrap -->
     <div class="article-wrap" itemprop="text">
       {{ content }}
