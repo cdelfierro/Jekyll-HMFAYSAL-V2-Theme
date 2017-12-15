@@ -4,7 +4,7 @@ title: Luna vieja/Luna negra
 description: "Es desde aquí donde manifiesto mis reflexiones, después de alrededor de 10 años en la performance, y de las transformaciones que se vive en este proceso, tal como la luna sobre el cielo. Una excusa para pensar también sobre las nuestras, sobre los errores, pérdida del rumbo, los delirios de grandeza y fama, de nuestras traiciones y nuestras raíces, o de hacia donde vamos."
 category: manifiestos
 author: 'Samuel “Salmuera” Hidalgo Ruiz'
-date: 2017-12-15 00:00 -0300
+date: "2017-12-15 00:00 -0300"
 sticky: true
 image:
   feature: manifiesto-luna-vieja-luna-negra.jpg
