@@ -16,14 +16,14 @@ que solté mañana
 y que rasura la naturaleza muerta
 colgada en las paredes
 de la memoria
-{: .anderson}
+{: .verso}
 
 ## ¿Cómo ves el futuro de la práctica?
 
 La
                                    performance
 es                                                                                                                           ahora
-{: .anderson}
+{: .verso}
 
 ---
 
