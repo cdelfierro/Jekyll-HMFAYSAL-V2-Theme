@@ -5,7 +5,7 @@ description: "Es desde aquí donde manifiesto mis reflexiones, después de alred
 category: manifiestos
 author: 'Samuel “Salmuera” Hidalgo Ruiz'
 date: 2017-12-15 00:00 -0300
-sticky: true
+sticky: false
 image:
   feature: manifiesto-luna-vieja-luna-negra.jpg
   credit: Desconocido
