@@ -5,7 +5,7 @@ description: "Los cuerpos que habitamos tienen la potencia de ser frágiles y la
 category: manifiestos
 author: "Anderson Feliciano y Yosjuan Piña Narváez"
 date: 2017-12-29 00:00 -0300
-sticky: true
+sticky: false
 image:
   feature: manifiesto-por-la-fragilidad-negra.jpg
   credit: Desconocido
