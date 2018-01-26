@@ -5,7 +5,7 @@ description: "Es nuestra responsabilidad enunciarnos antes que cualquier otro so
 category: manifiestos
 author: 'Nicolás Sandoval'
 date: 2018-01-12 00:00 -0300
-sticky: true
+sticky: false
 image:
   feature: manifiesto-albino.jpg
   credit: Lorna Remmele
