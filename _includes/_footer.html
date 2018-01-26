@@ -2,7 +2,9 @@
   <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es" target="_blank">
     <i class="fa fa-creative-commons" aria-hidden="true"></i> BY-NC-SA
   </a>
-  {{ site.time | date: '%Y' }} {{ site.owner.name }}. |
+  {% assign current = site.time | date: '%Y' %}
+  {% if site.since and site.since != current %} {{ site.since }} - {% endif %}
+  {{ current }} {{ site.owner.name }}. |
   Programado por <a href="https://cdelfierro.github.io" target="_blank">
     <i class="fa fa-eye" aria-hidden="true"></i> Carlos Gómez del Fierro</a>.
 </span>
