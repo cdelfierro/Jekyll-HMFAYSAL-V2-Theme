@@ -5,7 +5,7 @@ description: "El feminismo es una construcción que funciona como dispositivo co
 category: manifiestos
 author: 'Escuela de Arte Feminista'
 date: 2018-01-26 00:00 -0300
-sticky: true
+sticky: false
 image:
   feature: manifiesto-las-artistas-que-vivimos-no-existimos.jpg
   credit: Desconocido
