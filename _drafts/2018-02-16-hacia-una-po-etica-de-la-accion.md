@@ -6,7 +6,7 @@ description: "Podríamos decir que la función de la performance, es generar a t
 category: manifiestos
 author: 'Eli Neira'
 date: 2018-02-16 00:00 -0300
-sticky: true
+sticky: false
 image:
   feature: manifiesto-hacia-una-po-etica-de-la-accion.jpg
   credit: Desconocido
