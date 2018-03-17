@@ -16,30 +16,30 @@ Estando al borde del abismo, desde las alturas, mirando al cielo y al averno pre
 
 ## Primer día
 <figure>
-	<a href="/images/caida-comun/21-marzo.jpg"><img src="/images/caida-comun/21-marzo.jpg"></a>
+  <a href="/images/caida-comun/21-marzo.jpg"><img src="/images/caida-comun/21-marzo.jpg"></a>
 </figure>
 
 ## Segundo día
 <figure>
-	<a href="/images/caida-comun/22-marzo.jpg"><img src="/images/caida-comun/22-marzo.jpg"></a>
+  <a href="/images/caida-comun/22-marzo.jpg"><img src="/images/caida-comun/22-marzo.jpg"></a>
 </figure>
 
 ## Tercer día
 <figure>
-	<a href="/images/caida-comun/23-marzo.jpg"><img src="/images/caida-comun/23-marzo.jpg"></a>
+  <a href="/images/caida-comun/23-marzo.jpg"><img src="/images/caida-comun/23-marzo.jpg"></a>
 </figure>
 
 ## Cuarto día
 <figure>
-	<a href="/images/caida-comun/24-marzo.jpg"><img src="/images/caida-comun/24-marzo.jpg"></a>
+  <a href="/images/caida-comun/24-marzo.jpg"><img src="/images/caida-comun/24-marzo.jpg"></a>
 </figure>
 
 ## Quinto día
 <figure>
-	<a href="/images/caida-comun/25-marzo.jpg"><img src="/images/caida-comun/25-marzo.jpg"></a>
+  <a href="/images/caida-comun/25-marzo.jpg"><img src="/images/caida-comun/25-marzo.jpg"></a>
 </figure>
 
 ## Sexto día
 <figure>
-	<a href="/images/caida-comun/26-marzo.jpg"><img src="/images/caida-comun/26-marzo.jpg"></a>
+  <a href="/images/caida-comun/26-marzo.jpg"><img src="/images/caida-comun/26-marzo.jpg"></a>
 </figure>
