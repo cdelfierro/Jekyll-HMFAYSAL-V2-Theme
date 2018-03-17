@@ -6,7 +6,7 @@ description: "Entonces, siguiendo un impulso natural, me cago en la Constitució
 category: manifiestos
 author: 'Eli Neira'
 date: 2018-02-16 00:00 -0300
-sticky: true
+sticky: false
 image:
   feature: manifiesto-minimanifiesto-escatologico.jpg
   credit: Fabian Gambero

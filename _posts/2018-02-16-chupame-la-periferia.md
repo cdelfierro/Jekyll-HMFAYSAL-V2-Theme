@@ -6,7 +6,7 @@ description: "¿Se puede hablar de la periferia desde la más rotunda de las cen
 category: manifiestos
 author: 'Eli Neira'
 date: 2018-02-16 00:00 -0300
-sticky: true
+sticky: false
 image:
   feature: manifiesto-chupame-la-periferia.jpg
   credit: Graciela Ovejero Postigo
