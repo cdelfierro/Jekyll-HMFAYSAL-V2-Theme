@@ -4,6 +4,7 @@ title: "Historia de una caída no tan común"
 tagline: "La crisis de los relatos disidentes en las alturas de La Paz"
 description: 'En la presente declaración, Jazmín Ra y Carlos Huarcaya tomamos posición ante los hechos ocurridos sobre la plataforma que construimos su primer encuentro "Caída Común" y nuestros aliados, Gustavo Solar y Alejandra Álvarez.'
 author: 'Jazmín Ra & Carlos Huarcaya'
+date: 2018-05-01 00:00 -0300
 category: encuentros
 sticky: true
 modified:
