@@ -4,7 +4,7 @@ title: "Caída Común: 1° Encuentro de performance Interdicta"
 tagline: "El reto de la crisis, aperturas posibles desde las alturas andinas en La Paz – Bolivia, 2018."
 description: "Descuartizada la caída la volvemos a reunir para hacerla visible como una llama o un acceso, nunca como una llave."
 category: encuentros
-sticky: true
+sticky: false
 modified:
 image:
   feature: caida-comun.jpg

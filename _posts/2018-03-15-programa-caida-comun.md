@@ -4,7 +4,7 @@ title: "Caída Común: Programación del encuentro"
 tagline: "El reto de la crisis, aperturas posibles desde las alturas andinas en La Paz – Bolivia, 2018."
 description: "Estando al borde del abismo, les presentamos el programa."
 category: encuentros
-sticky: true
+sticky: false
 modified:
 image:
   feature: caida-comun.jpg
