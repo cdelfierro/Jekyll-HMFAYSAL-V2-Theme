@@ -2,13 +2,14 @@
 layout: post
 title: "Historia de una caída no tan común"
 tagline: "La crisis de los relatos disidentes en las alturas de La Paz"
-description: ""
+description: 'En la presente declaración, Jazmín Ra y Carlos Huarcaya tomamos posición ante los hechos ocurridos sobre la plataforma que construimos su primer encuentro "Caída Común" y nuestros aliados, Gustavo Solar y Alejandra Álvarez.'
+author: 'Jazmín Ra & Carlos Huarcaya'
 category: encuentros
 sticky: true
 modified:
 image:
   feature: caida-comun/la-maison-diev.jpg
-  credit: Jazmín Ra
+  credit: "Jazmín Ra; fuente original: LE MAISON DIEV, Tarot de Marsella"
 ---
 
 # Introducción
