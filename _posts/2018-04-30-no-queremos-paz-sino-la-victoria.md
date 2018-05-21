@@ -6,7 +6,7 @@ description: "No ha sido mala suerte que no se sepa que la función de una perfo
 category: manifiestos
 author: 'Ana Izquierdo, Cheril Linett, Inti Pujol, Jazmín Ra y Jenny Toro'
 date: 2018-04-30 00:00 -0300
-sticky: true
+sticky: false
 image:
   feature: manifiestos/no-queremos-paz-sino-la-victoria.jpg
   credit:

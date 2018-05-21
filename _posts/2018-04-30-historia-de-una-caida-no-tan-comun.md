@@ -6,7 +6,7 @@ description: 'En la presente declaración, Jazmín Ra y Carlos Huarcaya tomamos 
 author: 'Jazmín Ra & Carlos Huarcaya'
 date: 2018-05-01 00:00 -0300
 category: encuentros
-sticky: true
+sticky: false
 modified:
 image:
   feature: caida-comun/la-maison-diev.jpg
