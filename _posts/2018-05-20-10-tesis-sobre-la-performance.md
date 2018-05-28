@@ -6,7 +6,7 @@ description: "El 1 de febrero del 2016, en el marco del 2° Encuentro 24 horas d
 category: manifiestos
 author: 'Rodrigo Gozález'
 date: 2018-05-20 00:00 -0300
-sticky: true
+sticky: false
 image:
   feature: manifiestos/10-tesis-sobre-la-performance.jpg
   credit: Jazmín Ra
