@@ -6,7 +6,7 @@ description: "¿A quién estamos enfrentando cuando performamos? Sí, enfrentamo
 category: manifiestos
 author: 'Daniela Lillo Olivares'
 date: 2018-05-27 00:00 -0400
-sticky: true
+sticky: false
 image:
   feature: manifiestos/bolera-punx3.jpg
   credit: Samuel Pérez
