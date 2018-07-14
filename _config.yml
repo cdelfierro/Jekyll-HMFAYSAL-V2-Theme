@@ -39,12 +39,12 @@ links:
     url: /interdicta/
   - title: Posicionamiento
     url: /posicionamiento/
-  - title: Visiones
-    url: /visiones/
+  # - title: Visiones
+  #   url: /visiones/
   - title: Convocatoria
     url: /convocatorias/1a-convocatoria-manifiestos
-  - title: Encuentros
-    url: /encuentros/
+  # - title: Encuentros
+  #   url: /encuentros/
   - title: Manifiestos
     url: /manifiestos/
 
